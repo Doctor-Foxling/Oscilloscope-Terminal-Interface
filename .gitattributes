@@ -1,2 +1,2 @@
 * linguist-vendored
-*.tcl, *.html linguist-detectable=false
+*.tcl linguist-detectable=false
